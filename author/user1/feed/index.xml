@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Đây là trang của Tao</description>
-	<lastBuildDate>Tue, 01 Jun 2021 14:17:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jun 2021 06:45:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,9 @@
 				<category><![CDATA[rubik]]></category>
 		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=19</guid>
 
-					<description><![CDATA[RIVIEW BY TRƯỜNG 25/05/2021 » Trải nghiệm và đánh giá dòng GAN “MONSTER GO” » MF3RS3M phiên bản 2020 – Đã đến lúc nâng cấp rồi các dân chơi !! » YJ MGC 5&#215;5 và 6&#215;6 &#8211; Hai &#8220;thế lực mới&#8221; trong phân khúc tầm trung » Đánh giá MoYu Weilong WR M &#8211; Chiếc Flagship trường tồn qua năm tháng » GAN 330 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h1 class="title-head">RIVIEW BY TRƯỜNG</h1>
-<h4><span class="time_post f">25/05/2021</span></h4>
+					<description><![CDATA[RIVIEW BY TRƯỜNG 25/05/2021: » Trải nghiệm và đánh giá dòng GAN “MONSTER GO” » MF3RS3M phiên bản 2020 – Đã đến lúc nâng cấp rồi các dân chơi !! » YJ MGC 5&#215;5 và 6&#215;6 &#8211; Hai &#8220;thế lực mới&#8221; trong phân khúc tầm trung » Đánh giá MoYu Weilong WR M &#8211; Chiếc Flagship trường tồn qua năm tháng » GAN 330 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 class="title-head"><span style="color: #00ffff;">RIVIEW BY TRƯỜNG</span></h2>
+<h4><span class="time_post f">25/05/2021:</span></h4>
 <div class="article-details">
 <div class="article-content">
 <div class="article-related">
@@ -70,9 +70,9 @@
 <p>ổn định nhưng không “hy sinh” quá nhiều tốc độ ban đầu.</p>
 <h2><strong>MỘT VÀI SẢN PHẨM TƯƠNG TỰ:</strong></h2>
 
-<a href='https://habazaki2001.github.io/truong/rubik2/'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik2.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-<a href='https://habazaki2001.github.io/truong/rubik3/'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik3.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-<a href='https://habazaki2001.github.io/truong/la-minh-ne/rubik/rubik/attachment/rubik/'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik.jpg" class="attachment-thumbnail size-thumbnail" alt="The Valk3" loading="lazy" /></a>
+<a href='https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik.jpg'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik.jpg" class="attachment-thumbnail size-thumbnail" alt="The Valk3" loading="lazy" /></a>
+<a href='https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik2.jpg'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik2.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik3.jpg'><img width="150" height="150" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/rubik3.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
 
 <h2>Video:</h2>
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/T8Odty5TKJ8?start=603" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -126,26 +126,6 @@
 					
 					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/bn-tin-24h/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>https://habazaki2001.github.io/truong/uncategorized/hello-world/</link>
-					<comments>https://habazaki2001.github.io/truong/uncategorized/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 18 May 2021 07:45:49 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/hello-world/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
 		
 		
 			</item>

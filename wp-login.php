@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://habazaki2001.github.io/truong/wp-login.php?action=lostpassword">Lost your password?</a>
+								<a href="https://habazaki2001.github.io/truong/my-account/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -95,9 +95,6 @@ var userProfileL10n = {"user_id":"0","nonce":"2bf13111c5"};
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
 <script src="https://habazaki2001.github.io/truong/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-	</script>
-		<div class="clear"></div>
+	<div class="clear"></div>
 	</body>
 	</html>
