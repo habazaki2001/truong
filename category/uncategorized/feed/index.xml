@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Tao là Trường</title>
+	<title>Uncategorized &#8211; Page Rubik</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
-	<description>Đây là trang của Tao</description>
+	<description>Welcome to my Home</description>
 	<lastBuildDate>Tue, 01 Jun 2021 07:41:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
