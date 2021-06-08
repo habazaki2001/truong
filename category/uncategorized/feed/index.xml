@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Tao là Trường</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://habazaki2001.github.io/truong</link>
+	<description>Đây là trang của Tao</description>
+	<lastBuildDate>Tue, 01 Jun 2021 07:41:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bản Tin 24H</title>
+		<link>https://habazaki2001.github.io/truong/uncategorized/bn-tin-24h/</link>
+					<comments>https://habazaki2001.github.io/truong/uncategorized/bn-tin-24h/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 08:26:00 +0000</pubDate>
+				<category><![CDATA[truong]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=14</guid>
+
+					<description><![CDATA[Đầu giờ chiều nay (18/5), trường hợp nghi ngờ tại TP.Thủ Đức, TPHCM đã có kết quả xét nghiệm khẳng định dương tính với SARS-CoV-2. Phân tích các yếu tố lâm sàng, kết quả xét nghiệm cho thấy nhiều khả năng trường hợp này mới nhiễm bệnh. TPHCM đang tích cực điều tra, truy vết để xác định [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Đầu giờ chiều nay (18/5), trường hợp nghi ngờ tại TP.Thủ Đức, TPHCM đã có kết quả xét nghiệm khẳng định dương tính với SARS-CoV-2.</p>
+
+
+
+<p>Phân tích các yếu tố lâm sàng, kết quả xét nghiệm cho thấy nhiều khả năng trường hợp này mới nhiễm bệnh. TPHCM đang tích cực điều tra, truy vết để xác định nguồn nhiễm.</p>
+
+
+
+<p>Cơ quan chức năng cũng đang mở rộng diện lấy mẫu giám sát ở cả 3 block chung cư nơi bệnh nhân cư trú, với số lượng khoảng gần 6.000 người.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="480" height="270" class="wp-image-15" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/20160415165237-5c25-1.jpg" alt="" />
+<figcaption>Trước đó, như CAO đã đưa tin, sáng cùng ngày, Trung tâm Kiểm soát Bệnh tật TPHCM (HCDC) đã tiếp nhận thông tin 1 trường hợp có kết quả nghi ngờ. <br />Theo đó, trường hợp mới ghi nhận là anh N.Q.N. (35 tuổi, nhân viên kiểm toán Công ty Deloitte, trụ sở tại quận 3).<br />Do bị sốt, đau họng nên ngày 17/5/2021, người này đến BV Vinmec khám và được cách ly do có dấu hiệu sốt, ho, đau họng, giảm vị giác và được lấy mẫu xét nghiệm SARS-CoV-2.<br />Sáng 18/5 kết quả xét nghiệm nghi ngờ nhiễm. Mẫu xét nghiệm được chuyển đến Bệnh viện Bệnh Nhiệt Đới TPHCM thực hiện xét nghiệm khẳng định.<br />Trường hợp này sống cùng với 4 người gồm mẹ, vợ và 2 người con tại chung cư Sunview Town, P.Hiệp Bình Phước, TP. Thủ Đức. Vợ người này làm việc tại công ty trong khu công nghệ cao, TP.Thủ Đức.<br />Trong quá trình làm việc người này tiếp xúc với nhiều khách hàng. Qua khai báo ban đầu, anh N cho biết không rời khỏi TPHCM trong vòng 1 tháng gần đây.<br />Sau khi tiếp nhận thông tin, thành phố tiến hành các biện pháp phòng chống dịch. Thực hiện điều tra, truy vết các trường hợp tiếp xúc, khoanh vùng phong tỏa tạm thời các địa điểm liên quan đến bệnh nhân. 4 người sống chung nhà với trường hợp này đã được cách ly, lấy mẫu xét nghiệm.<br />Điều tra truy vết được 61 người tiếp xúc người này tại nơi làm việc, 17 người tiếp xúc với người vợ tại nơi làm việc. Các trường hợp tiếp xúc chuyển cách ly, lấy mẫu xét nghiệm.<br />Được biết, trước đó vào ngày 8/5, người này được lấy mẫu xét nghiệm ngẫu nhiên giám sát tại cộng đồng và đã cho kết quả xét nghiệm âm tính với SARS-CoV-2.</figcaption>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/bn-tin-24h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://habazaki2001.github.io/truong/uncategorized/hello-world/</link>
+					<comments>https://habazaki2001.github.io/truong/uncategorized/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 07:45:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/hello-world/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
