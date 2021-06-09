@@ -11,13 +11,27 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to my Home</description>
-	<lastBuildDate>Tue, 08 Jun 2021 06:45:09 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jun 2021 06:52:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>
+		Comment on ĐÁNH GIÁ QIYI VALK 3 &#8211; &#8220;TOÀN CẢNH&#8221; VỀ CHIẾC RUBIK CỦA MATS VALK by truong vo		</title>
+		<link>https://habazaki2001.github.io/truong/la-minh-ne/rubik/rubik/#comment-7</link>
+
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2021 06:52:56 +0000</pubDate>
+		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=19#comment-7</guid>
+
+					<description><![CDATA[qua tuyet voi]]></description>
+			<content:encoded><![CDATA[<p>qua tuyet voi</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comment on ĐÁNH GIÁ QIYI VALK 3 &#8211; &#8220;TOÀN CẢNH&#8221; VỀ CHIẾC RUBIK CỦA MATS VALK by truong1 vo		</title>
 		<link>https://habazaki2001.github.io/truong/la-minh-ne/rubik/rubik/#comment-6</link>
