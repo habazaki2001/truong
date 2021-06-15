@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to my CHANEL</description>
-	<lastBuildDate>Tue, 15 Jun 2021 06:28:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 11:46:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,12 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>SẢN PHẨM NƯỚC HOA CHANEL</title>
-		<link>https://habazaki2001.github.io/truong/la-minh-ne/rubik/nuoc-hoa/</link>
-					<comments>https://habazaki2001.github.io/truong/la-minh-ne/rubik/nuoc-hoa/#comments</comments>
+		<link>https://habazaki2001.github.io/truong/uncategorized/nuoc-hoa/</link>
+					<comments>https://habazaki2001.github.io/truong/uncategorized/nuoc-hoa/#comments</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
 		<pubDate>Tue, 25 May 2021 07:20:06 +0000</pubDate>
-				<category><![CDATA[rubik]]></category>
+				<category><![CDATA[Nước Hoa]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Perfume]]></category>
 		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=19</guid>
 
@@ -48,7 +49,7 @@ Sản phẩm cũng có thể dùng trên tóc. Hoàn thiện chu trình của m�
 <p><img loading="lazy" class="alignnone size-full wp-image-223" src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/05/nuoc-hoa7.jpg" alt="" width="2200" height="504" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/la-minh-ne/rubik/nuoc-hoa/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/nuoc-hoa/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
