@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MONSIEUR-PHIÊN BẢN KIM CƯƠNG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/dong-ho/monsieur-phien-ban-kim-cuong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://habazaki2001.github.io/truong</link>
+	<description>Welcome to my CHANEL</description>
+	<lastBuildDate>Tue, 15 Jun 2021 09:07:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>BỘ SƯU TẬP ĐỒNG HỘ MONSIEUR</title>
+		<link>https://habazaki2001.github.io/truong/product/cac-san-pham-monsieur/</link>
+					<comments>https://habazaki2001.github.io/truong/product/cac-san-pham-monsieur/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 08:47:58 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=296</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/cac-san-pham-monsieur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MONSIEUR. ĐỒNG HỒ PHIÊN BẢN KIM CƯƠNG</title>
+		<link>https://habazaki2001.github.io/truong/product/monsieur-dong-ho-phien-ban-kim-cuong/</link>
+					<comments>https://habazaki2001.github.io/truong/product/monsieur-dong-ho-phien-ban-kim-cuong/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 07:47:30 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=247</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/monsieur-dong-ho-phien-ban-kim-cuong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

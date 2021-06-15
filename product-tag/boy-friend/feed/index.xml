@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/boy-friend/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to my CHANEL</description>
-	<lastBuildDate>Tue, 15 Jun 2021 07:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 10:42:32 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,9 @@
 		<pubDate>Tue, 15 Jun 2021 07:15:13 +0000</pubDate>
 				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=245</guid>
 
-					<description><![CDATA[<h1 class="product-details__head"><span class="product-details__description" data-test="lblProductSubTitle">Phiên bản cỡ lớn, bằng sapphire và vàng trắng, núm vặn đính kim cương giác cắt baguette, dây đeo bằng da bê dập vân da cá sấu màu đen bóng</span></h1>
+					<description><![CDATA[<h6 class="product-details__head"></h6>
 <p class="js-product-details-more-wrapper product-details-more-wrapper"></p>]]></description>
-										<content:encoded><![CDATA[<h1 class="product-details__head"><span class="product-details__description" data-test="lblProductSubTitle">Phiên bản cỡ lớn, bằng sapphire và vàng trắng, núm vặn đính kim cương giác cắt baguette, dây đeo bằng da bê dập vân da cá sấu màu đen bóng</span></h1>
-<p class="js-product-details-more-wrapper product-details-more-wrapper"><span class="product-details__more" data-test="btnMoreDetails_PDP"><a class="link is-underline js-more-details-anchor" href="https://www.chanel.com/vn/dong-ho/p/H6250/dong-ho-boy-friend-skeleton-x-ray/#characteristic-watches" aria-label="xem thêm chi tiết về Đồng hồ BOY·FRIEND Skeleton X-Ray">Xem thêm chi tiết</a></span></p>
+										<content:encoded><![CDATA[<h6 class="product-details__head"><span class="product-details__description" data-test="lblProductSubTitle">Phiên bản cỡ lớn, bằng sapphire và vàng trắng, núm vặn đính kim cương giác cắt baguette, dây đeo bằng da bê dập vân da cá sấu màu đen bóng</span> <span class="product-details__more" data-test="btnMoreDetails_PDP"><a class="link is-underline js-more-details-anchor" href="https://www.chanel.com/vn/dong-ho/p/H6250/dong-ho-boy-friend-skeleton-x-ray/#characteristic-watches" aria-label="xem thêm chi tiết về Đồng hồ BOY·FRIEND Skeleton X-Ray">Xem thêm chi tiết</a></span></h6>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-boy%c2%b7friend-skeleton-x-ray/feed/</wfw:commentRss>

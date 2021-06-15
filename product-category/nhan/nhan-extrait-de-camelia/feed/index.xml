@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NHẪN EXTRAIT DE CAMÉLIA</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/nhan/nhan-extrait-de-camelia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://habazaki2001.github.io/truong</link>
+	<description>Welcome to my CHANEL</description>
+	<lastBuildDate>Tue, 15 Jun 2021 10:39:23 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>NHẪN EXTRAIT DE CAMÉLIA</title>
+		<link>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 10:31:36 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=340</guid>
+
+					<description><![CDATA[<div class="push-editorial__text how-to-wear__text">
+<div class="context has-text-centered unstyled">
+
+&#160;
+
+</div>
+</div>
+<figure class="push-editorial__image how-to-wear__imgPager how-to-wear__image">
+<div class="container__carousel">
+<div class="carousel js-carousel">
+<div class="carousel__outer">
+<div class="carousel__wrapper">
+<div class="carousel__frame js-frame">
+<div class="carousel__slide js-slide is-active">
+<div class="carousel__slide-container"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></figure>]]></description>
+										<content:encoded><![CDATA[<div class="push-editorial__text how-to-wear__text">
+<div class="context has-text-centered unstyled">
+<h2 class=" heading is-2 ">Camélia</h2>
+<p class="how-to-wear-desc">Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách.</p>
+<p>Bằng vàng hồng 18K, đính kim cương.</p>
+</div>
+</div>
+<figure class="push-editorial__image how-to-wear__imgPager how-to-wear__image">
+<div class="container__carousel">
+<div class="carousel js-carousel">
+<div class="carousel__outer">
+<div class="carousel__wrapper">
+<div class="carousel__frame js-frame">
+<div class="carousel__slide js-slide is-active">
+<div class="carousel__slide-container"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
