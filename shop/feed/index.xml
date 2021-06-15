@@ -8,16 +8,34 @@
 	>
 
 <channel>
-	<title>Products &#8211; Page Rubik</title>
+	<title>Sản phẩm</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
-	<description>Welcome to my Home</description>
-	<lastBuildDate>Tue, 08 Jun 2021 10:13:58 +0000</lastBuildDate>
-	<language>en-US</language>
+	<description>Welcome to my CHANEL</description>
+	<lastBuildDate>Tue, 15 Jun 2021 02:01:44 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>ĐỒNG HỒ J12 PINK BLUSH, 33 MM</title>
+		<link>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/</link>
+					<comments>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 02:01:43 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=196</guid>
+
+					<description><![CDATA[Lắng đọng một khoảnh khắc để cùng khám phá đồng hồ J12. Một biểu tượng trong lĩnh vực chế tác đồng hồ, được trang bị bộ chuyển động lên dây tự động mới Caliber 12.1, sản xuất độc quyền dành riêng cho CHANEL. Sức hút tuyệt vời từ bên trong có thể chiêm ngưỡng từ bên ngoài.]]></description>
+										<content:encoded><![CDATA[<p>Lắng đọng một khoảnh khắc để cùng khám phá đồng hồ J12. Một biểu tượng trong lĩnh vực chế tác đồng hồ, được trang bị bộ chuyển động lên dây tự động mới Caliber 12.1, sản xuất độc quyền dành riêng cho CHANEL. Sức hút tuyệt vời từ bên trong có thể chiêm ngưỡng từ bên ngoài.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
