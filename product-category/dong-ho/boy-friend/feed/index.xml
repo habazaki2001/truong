@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Đồng-Hồ</title>
-	<atom:link href="http://localhost/myproject/wordpress/product-category/dong-ho/feed/" rel="self" type="application/rss+xml" />
+	<title>Boy-Friend</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/dong-ho/boy-friend/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to my CHANEL</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:15:13 +0000</lastBuildDate>
@@ -36,24 +36,6 @@
 					
 					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-boy%c2%b7friend-skeleton-x-ray/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ĐỒNG HỒ J12 (PINK BLUSH, PHANTOM), 33 MM</title>
-		<link>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/</link>
-					<comments>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/#comments</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 02:01:43 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=196</guid>
-
-					<description><![CDATA[Lắng đọng một khoảnh khắc để cùng khám phá đồng hồ J12. Một biểu tượng trong lĩnh vực chế tác đồng hồ, được trang bị bộ chuyển động lên dây tự động mới Caliber 12.1, sản xuất độc quyền dành riêng cho CHANEL. Sức hút tuyệt vời từ bên trong có thể chiêm ngưỡng từ bên ngoài.]]></description>
-										<content:encoded><![CDATA[<p>Lắng đọng một khoảnh khắc để cùng khám phá đồng hồ J12. Một biểu tượng trong lĩnh vực chế tác đồng hồ, được trang bị bộ chuyển động lên dây tự động mới Caliber 12.1, sản xuất độc quyền dành riêng cho CHANEL. Sức hút tuyệt vời từ bên trong có thể chiêm ngưỡng từ bên ngoài.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>

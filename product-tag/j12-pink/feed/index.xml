@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/j12-pink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to my CHANEL</description>
-	<lastBuildDate>Tue, 15 Jun 2021 02:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 07:11:05 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,9 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>ĐỒNG HỒ J12 PINK BLUSH, 33 MM</title>
+		<title>ĐỒNG HỒ J12 (PINK BLUSH, PHANTOM), 33 MM</title>
 		<link>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/</link>
-					<comments>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/#respond</comments>
+					<comments>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/#comments</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 02:01:43 +0000</pubDate>
@@ -33,7 +33,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-j12-pink-blush-33-mm/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
