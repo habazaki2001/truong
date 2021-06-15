@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments on: Sample Page	</title>
+	Các phản hồi luận về: Sample Page	</title>
 	<atom:link href="http://localhost/myproject/wordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
-	<description>Welcome to my Home</description>
+	<description>Welcome to my CHANEL</description>
 	<lastBuildDate>Tue, 18 May 2021 07:45:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
