@@ -1,10 +1,10 @@
 
 		<!-- MasterSlider -->
-		<div id="P_MS60d1926a9ec0d" class="master-slider-parent msl ms-parent-id-6" style="max-width:800px;">
+		<div id="P_MS60d194e5bf020" class="master-slider-parent msl ms-parent-id-6" style="max-width:800px;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS60d1926a9ec0d" class="master-slider ms-skin-light-3" >
+			<div id="MS60d194e5bf020" class="master-slider ms-skin-light-3" >
 				 				 
 				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
 					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg" />
@@ -47,15 +47,15 @@
 			"use strict";
 
 			$(function () {
-				var masterslider_ec0d = new MasterSlider();
+				var masterslider_f020 = new MasterSlider();
 
 				// slider controls
-				masterslider_ec0d.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_ec0d.control('bullets'    ,{ autohide:true, overVideo:true, dir:'h', align:'bottom' , margin:10  });
+				masterslider_f020.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_f020.control('bullets'    ,{ autohide:true, overVideo:true, dir:'h', align:'bottom' , margin:10  });
 
-				masterslider_ec0d.control('circletimer',{ autohide:false, overVideo:true, color:'#434343', radius:10, stroke:3   });
-				masterslider_ec0d.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
+				masterslider_f020.control('circletimer',{ autohide:false, overVideo:true, color:'#434343', radius:10, stroke:3   });
+				masterslider_f020.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
 				// slider setup
-				masterslider_ec0d.setup("MS60d1926a9ec0d", {
+				masterslider_f020.setup("MS60d194e5bf020", {
 						width           : 800,
 						height          : 480,
 						minHeight       : 0,
@@ -90,7 +90,7 @@
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_ec0d );
+				window.masterslider_instances.push( masterslider_f020 );
 			 });
 
 		})(jQuery);
