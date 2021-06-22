@@ -662,11 +662,11 @@ img.emoji {
 				<div class="entry-content">
 			
 		<!-- MasterSlider -->
-		<div id="P_MS60d1947f4c6b1" class="master-slider-parent msl ms-parent-id-6" style="max-width:800px;">
+		<div id="P_MS60d198748f3e2" class="master-slider-parent msl ms-parent-id-4">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS60d1947f4c6b1" class="master-slider ms-skin-light-3">
+			<div id="MS60d198748f3e2" class="master-slider ms-skin-light-6 round-skin">
 				 				 
 				<div class="ms-slide" data-delay="3" data-fill-mode="fill">
 					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg">
@@ -713,28 +713,28 @@ img.emoji {
 			"use strict";
 
 			$(function () {
-				var masterslider_c6b1 = new MasterSlider();
+				var masterslider_f3e2 = new MasterSlider();
 
 				// slider controls
-				masterslider_c6b1.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_c6b1.control('bullets'    ,{ autohide:true, overVideo:true, dir:'h', align:'bottom' , margin:10  });
+				masterslider_f3e2.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_f3e2.control('bullets'    ,{ autohide:false, overVideo:true, dir:'h', align:'bottom' , margin:10  });
 
-				masterslider_c6b1.control('circletimer',{ autohide:false, overVideo:true, color:'#434343', radius:10, stroke:3   });
-				masterslider_c6b1.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
+				masterslider_f3e2.control('scrollbar'  ,{ autohide:true, overVideo:true, dir:'h', inset:true, align:'top', color:'#404040' , margin:10  , width:4 });
+				masterslider_f3e2.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
 				// slider setup
-				masterslider_c6b1.setup("MS60d1947f4c6b1", {
+				masterslider_f3e2.setup("MS60d198748f3e2", {
 						width           : 800,
-						height          : 480,
+						height          : 482,
 						minHeight       : 0,
-						space           : 0,
+						space           : 2,
 						start           : 1,
 						grabCursor      : true,
 						swipe           : true,
 						mouse           : true,
-						layout          : "boxed",
+						layout          : "fullwidth",
 						wheel           : false,
-						autoplay        : true,
+						autoplay        : false,
 						instantStartLayers:false,
-						loop            : true,
+						loop            : false,
 						shuffle         : false,
 						preload         : 0,
 						heightLimit     : true,
@@ -743,12 +743,12 @@ img.emoji {
 						endPause        : false,
 						overPause       : true,
 						fillMode        : "fill",
-						centerControls  : true,
+						centerControls  : false,
 						startOnAppear   : false,
 						layersMode      : "center",
 						hideLayers      : false,
 						fullscreenMargin: 0,
-						speed           : 2,
+						speed           : 7,
 						dir             : "h",
 						parallaxMode    : 'swipe',
 						view            : "basic"
@@ -756,7 +756,7 @@ img.emoji {
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_c6b1 );
+				window.masterslider_instances.push( masterslider_f3e2 );
 			 });
 
 		})(jQuery);

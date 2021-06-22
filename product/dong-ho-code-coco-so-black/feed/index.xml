@@ -1,10 +1,10 @@
 
 		<!-- MasterSlider -->
-		<div id="P_MS60d194c06264e" class="master-slider-parent msl ms-parent-id-6" style="max-width:800px;">
+		<div id="P_MS60d198b37d387" class="master-slider-parent msl ms-parent-id-4" style="">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS60d194c06264e" class="master-slider ms-skin-light-3" >
+			<div id="MS60d198b37d387" class="master-slider ms-skin-light-6 round-skin" >
 				 				 
 				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
 					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg" />
@@ -47,28 +47,28 @@
 			"use strict";
 
 			$(function () {
-				var masterslider_264e = new MasterSlider();
+				var masterslider_d387 = new MasterSlider();
 
 				// slider controls
-				masterslider_264e.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_264e.control('bullets'    ,{ autohide:true, overVideo:true, dir:'h', align:'bottom' , margin:10  });
+				masterslider_d387.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_d387.control('bullets'    ,{ autohide:false, overVideo:true, dir:'h', align:'bottom' , margin:10  });
 
-				masterslider_264e.control('circletimer',{ autohide:false, overVideo:true, color:'#434343', radius:10, stroke:3   });
-				masterslider_264e.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
+				masterslider_d387.control('scrollbar'  ,{ autohide:true, overVideo:true, dir:'h', inset:true, align:'top', color:'#404040' , margin:10  , width:4 });
+				masterslider_d387.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
 				// slider setup
-				masterslider_264e.setup("MS60d194c06264e", {
+				masterslider_d387.setup("MS60d198b37d387", {
 						width           : 800,
-						height          : 480,
+						height          : 482,
 						minHeight       : 0,
-						space           : 0,
+						space           : 2,
 						start           : 1,
 						grabCursor      : true,
 						swipe           : true,
 						mouse           : true,
-						layout          : "boxed",
+						layout          : "fullwidth",
 						wheel           : false,
-						autoplay        : true,
+						autoplay        : false,
 						instantStartLayers:false,
-						loop            : true,
+						loop            : false,
 						shuffle         : false,
 						preload         : 0,
 						heightLimit     : true,
@@ -77,12 +77,12 @@
 						endPause        : false,
 						overPause       : true,
 						fillMode        : "fill",
-						centerControls  : true,
+						centerControls  : false,
 						startOnAppear   : false,
 						layersMode      : "center",
 						hideLayers      : false,
 						fullscreenMargin: 0,
-						speed           : 2,
+						speed           : 7,
 						dir             : "h",
 						parallaxMode    : 'swipe',
 						view            : "basic"
@@ -90,7 +90,7 @@
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_264e );
+				window.masterslider_instances.push( masterslider_d387 );
 			 });
 
 		})(jQuery);
