@@ -1,101 +1,3 @@
-
-		<!-- MasterSlider -->
-		<div id="P_MS60d198989b21e" class="master-slider-parent msl ms-parent-id-4" style="">
-
-			
-			<!-- MasterSlider Main -->
-			<div id="MS60d198989b21e" class="master-slider ms-skin-light-6 round-skin" >
-				 				 
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/chanel-2250748_1280-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/jewelry-420016_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/bo-suu-tap-monsieur-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-
-			</div>
-			<!-- END MasterSlider Main -->
-
-			 
-		</div>
-		<!-- END MasterSlider -->
-
-		<script>
-		(function ( $ ) {
-			"use strict";
-
-			$(function () {
-				var masterslider_b21e = new MasterSlider();
-
-				// slider controls
-				masterslider_b21e.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_b21e.control('bullets'    ,{ autohide:false, overVideo:true, dir:'h', align:'bottom' , margin:10  });
-
-				masterslider_b21e.control('scrollbar'  ,{ autohide:true, overVideo:true, dir:'h', inset:true, align:'top', color:'#404040' , margin:10  , width:4 });
-				masterslider_b21e.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
-				// slider setup
-				masterslider_b21e.setup("MS60d198989b21e", {
-						width           : 800,
-						height          : 482,
-						minHeight       : 0,
-						space           : 2,
-						start           : 1,
-						grabCursor      : true,
-						swipe           : true,
-						mouse           : true,
-						layout          : "fullwidth",
-						wheel           : false,
-						autoplay        : false,
-						instantStartLayers:false,
-						loop            : false,
-						shuffle         : false,
-						preload         : 0,
-						heightLimit     : true,
-						autoHeight      : false,
-						smoothHeight    : true,
-						endPause        : false,
-						overPause       : true,
-						fillMode        : "fill",
-						centerControls  : false,
-						startOnAppear   : false,
-						layersMode      : "center",
-						hideLayers      : false,
-						fullscreenMargin: 0,
-						speed           : 7,
-						dir             : "h",
-						parallaxMode    : 'swipe',
-						view            : "basic"
-				});
-
-				
-				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_b21e );
-			 });
-
-		})(jQuery);
-		</script>
-
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -106,257 +8,191 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; CHANEL</title>
+	<title>Sản phẩm &#8211; Trường Nike</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
-	<description>Welcome to my CHANEL</description>
-	<lastBuildDate>Tue, 15 Jun 2021 11:36:31 +0000</lastBuildDate>
+	<description>Welcome to  My Shop</description>
+	<lastBuildDate>Fri, 02 Jul 2021 14:20:48 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://habazaki2001.github.io/truong/wp-content/uploads/2021/07/logo1.png</url>
+	<title>Sản phẩm &#8211; Trường Nike</title>
+	<link>https://habazaki2001.github.io/truong</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>NHẪN HAI NGÓN COCO CRUSH</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-hai-ngon-coco-crush/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-hai-ngon-coco-crush/#respond</comments>
+		<title>Nike Big Girl&#8217;s (7-16) Jersey Sport Casual Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-big-girls-7-16-jersey-sport-casual-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-big-girls-7-16-jersey-sport-casual-shorts/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:38:13 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=342</guid>
-
-					<description><![CDATA[Coco Crush Một mô-típ kinh điển của CHANEL, kiểu dáng đậm tính đồ họa của họa tiết chần quả trám trở thành nguồn cảm hứng cho bộ sưu tập đặc biệt này. Mô-típ chần quả trám, bằng vàng trắng và vàng vàng 18K, đính kim cương]]></description>
-										<content:encoded><![CDATA[<h2 class=" heading is-2  ">Coco Crush</h2>
-<p class="how-to-wear-desc">Một mô-típ kinh điển của CHANEL, kiểu dáng đậm tính đồ họa của họa tiết chần quả trám trở thành nguồn cảm hứng cho bộ sưu tập đặc biệt này.</p>
-<p>Mô-típ chần quả trám, bằng vàng trắng và vàng vàng 18K, đính kim cương</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-hai-ngon-coco-crush/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NHẪN EXTRAIT DE CAMÉLIA</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/#respond</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:31:36 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=340</guid>
-
-					<description><![CDATA[<div class="push-editorial__text how-to-wear__text">
-<div class="context has-text-centered unstyled">
-
-&#160;
-
-</div>
-</div>
-<figure class="push-editorial__image how-to-wear__imgPager how-to-wear__image">
-<div class="container__carousel">
-<div class="carousel js-carousel">
-<div class="carousel__outer">
-<div class="carousel__wrapper">
-<div class="carousel__frame js-frame">
-<div class="carousel__slide js-slide is-active">
-<div class="carousel__slide-container"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></figure>]]></description>
-										<content:encoded><![CDATA[<div class="push-editorial__text how-to-wear__text">
-<div class="context has-text-centered unstyled">
-<h2 class=" heading is-2 ">Camélia</h2>
-<p class="how-to-wear-desc">Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách.</p>
-<p>Bằng vàng hồng 18K, đính kim cương.</p>
-</div>
-</div>
-<figure class="push-editorial__image how-to-wear__imgPager how-to-wear__image">
-<div class="container__carousel">
-<div class="carousel js-carousel">
-<div class="carousel__outer">
-<div class="carousel__wrapper">
-<div class="carousel__frame js-frame">
-<div class="carousel__slide js-slide is-active">
-<div class="carousel__slide-container"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-extrait-de-camelia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NHẪN FIL DE CAMÉLIA</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-fil-de-camelia/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-fil-de-camelia/#respond</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:27:39 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=336</guid>
+		<pubDate>Fri, 02 Jul 2021 14:20:48 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=706</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-fil-de-camelia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-big-girls-7-16-jersey-sport-casual-shorts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>NHẪN PÉTALES DE CAMÉLIA</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia-2/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia-2/#respond</comments>
+		<title>Nike Girls&#8217; Dri-fit Tempo Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-girls-dri-fit-tempo-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-girls-dri-fit-tempo-shorts/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:21:19 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=334</guid>
-
-					<description><![CDATA[Camélia Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách. Bằng vàng vàng 18K, đính kim cương]]></description>
-										<content:encoded><![CDATA[<div class="push-editorial__text how-to-wear__text">
-<div class="context has-text-centered unstyled">
-<h2 class=" heading is-2 ">Camélia</h2>
-<p class="how-to-wear-desc">Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách.</p>
-<p>Bằng vàng vàng 18K, đính kim cương</p>
-</div>
-</div>
-<figure class="push-editorial__image how-to-wear__imgPager how-to-wear__image">
-<div class="container__carousel">
-<div class="carousel js-carousel">
-<div class="carousel__outer">
-<div class="carousel__wrapper">
-<div class="carousel__frame js-frame">
-<div class="carousel__slide js-slide is-active">
-<div class="carousel__slide-container"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NHẪN PÉTALES DE CAMÉLIA</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia/#respond</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:18:02 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=332</guid>
-
-					<description><![CDATA[Camélia Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách. Bằng vàng vàng 18K, đính kim cương]]></description>
-										<content:encoded><![CDATA[<h2 class=" heading is-2 ">Camélia</h2>
-<p class="how-to-wear-desc">Là loài hoa ưa thích của Mademoiselle Chanel, nét đẹp thuần khiết của bông hoa trà uyển chuyển trong vô vàn phong cách.</p>
-<p>Bằng vàng vàng 18K, đính kim cương</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-petales-de-camelia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NHẪN COCO CRUSH</title>
-		<link>https://habazaki2001.github.io/truong/product/nhan-coco-crush/</link>
-					<comments>https://habazaki2001.github.io/truong/product/nhan-coco-crush/#respond</comments>
-		
-		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 10:10:53 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=324</guid>
+		<pubDate>Fri, 02 Jul 2021 14:14:14 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=697</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nhan-coco-crush/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-girls-dri-fit-tempo-shorts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Bộ sưu tập mademoiselle privé</title>
-		<link>https://habazaki2001.github.io/truong/product/bo-suu-tap-mademoiselle-prive/</link>
-					<comments>https://habazaki2001.github.io/truong/product/bo-suu-tap-mademoiselle-prive/#respond</comments>
+		<title>Nike Men&#8217;s Court Dry 9&#8243; Short</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-mens-court-dry-9-short/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-mens-court-dry-9-short/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 09:41:53 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=316</guid>
+		<pubDate>Fri, 02 Jul 2021 14:03:55 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=690</guid>
 
-					<description><![CDATA[Bộ sưu tập Mademoiselle Privé tôn vinh kỹ thuật thủ công tinh tế của CHANEL trong nghệ thuật chế tác đồng hồ. Thông qua bàn tay của những nghệ nhân bậc thầy, các thiết kế trong bộ sưu tập là sự kết hợp giữa đỉnh cao hoàn mỹ và sự thanh lịch, trong một không gian đầy biểu tượng, tôn vinh sự nữ tính tuyệt đối.]]></description>
-										<content:encoded><![CDATA[<p>Bộ sưu tập Mademoiselle Privé tôn vinh kỹ thuật thủ công tinh tế của CHANEL trong nghệ thuật chế tác đồng hồ. Thông qua bàn tay của những nghệ nhân bậc thầy, các thiết kế trong bộ sưu tập là sự kết hợp giữa đỉnh cao hoàn mỹ và sự thanh lịch, trong một không gian đầy biểu tượng, tôn vinh sự nữ tính tuyệt đối.</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/bo-suu-tap-mademoiselle-prive/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-mens-court-dry-9-short/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>MADEMOISELLE PRIVÉ WATCH</title>
-		<link>https://habazaki2001.github.io/truong/product/mademoiselle-prive-watch/</link>
-					<comments>https://habazaki2001.github.io/truong/product/mademoiselle-prive-watch/#respond</comments>
+		<title>NIKE Sportswear Boys&#8217; Jersey Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-sportswear-boys-jersey-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-sportswear-boys-jersey-shorts/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 09:34:16 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=313</guid>
+		<pubDate>Fri, 02 Jul 2021 13:47:43 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=685</guid>
 
-					<description><![CDATA[Bộ trang sức La Plume Enchantée &#8211; Mặt đồng hồ tráng men với kỹ thuật Grand Feu màu đen, đính kim cương và sapphire hồng]]></description>
-										<content:encoded><![CDATA[<p>Bộ trang sức La Plume Enchantée &#8211; Mặt đồng hồ tráng men với kỹ thuật Grand Feu màu đen, đính kim cương và sapphire hồng</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/mademoiselle-prive-watch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-sportswear-boys-jersey-shorts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>ĐỒNG HỒ MADEMOISELLE PRIVÉ</title>
-		<link>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive-2/</link>
-					<comments>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive-2/#respond</comments>
+		<title>Nike Youth Dry Park II Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-youth-dry-park-ii-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-youth-dry-park-ii-shorts/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 09:31:00 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=311</guid>
+		<pubDate>Fri, 02 Jul 2021 13:39:04 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=675</guid>
 
-					<description><![CDATA[Bộ trang sức Bijoux de Diamants Soleil &#8211; Ngọc trai khảm vân và kim cương]]></description>
-										<content:encoded><![CDATA[<p>Bộ trang sức Bijoux de Diamants Soleil &#8211; Ngọc trai khảm vân và kim cương</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-youth-dry-park-ii-shorts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>ĐỒNG HỒ MADEMOISELLE PRIVÉ</title>
-		<link>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive/</link>
-					<comments>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive/#respond</comments>
+		<title>Nike 2018-2019 Inter Milan Third Football Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-2018-2019-inter-milan-third-football-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-2018-2019-inter-milan-third-football-shorts/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 09:27:50 +0000</pubDate>
-				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=307</guid>
+		<pubDate>Fri, 02 Jul 2021 13:07:05 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=672</guid>
 
-					<description><![CDATA[Bộ trang sức Bijoux de Diamants Plume &#8211; Ngọc trai khảm vân và kim cương]]></description>
-										<content:encoded><![CDATA[<p>Bộ trang sức Bijoux de Diamants Plume &#8211; Ngọc trai khảm vân và kim cương</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/product/dong-ho-mademoiselle-prive/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-2018-2019-inter-milan-third-football-shorts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nike Boy`s Pro Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-boys-pro-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-boys-pro-shorts/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 12:53:14 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=667</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-boys-pro-shorts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NIKE Elite Stripe Short</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-elite-stripe-short/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-elite-stripe-short/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 12:44:01 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=663</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-elite-stripe-short/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nike Men&#8217;s Soccer Park III Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-mens-soccer-park-iii-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-mens-soccer-park-iii-shorts/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 11:49:11 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=658</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-mens-soccer-park-iii-shorts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nike Air Jordan Boys&#8217; Mesh Black Shorts</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-air-jordan-boys-mesh-black-shorts/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-air-jordan-boys-mesh-black-shorts/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 11:41:26 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=653</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-air-jordan-boys-mesh-black-shorts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,101 +1,3 @@
-
-		<!-- MasterSlider -->
-		<div id="P_MS60d198ef604f5" class="master-slider-parent msl ms-parent-id-4" style="">
-
-			
-			<!-- MasterSlider Main -->
-			<div id="MS60d198ef604f5" class="master-slider ms-skin-light-6 round-skin" >
-				 				 
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/chanel-2250748_1280-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/jewelry-420016_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/bo-suu-tap-monsieur-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-
-			</div>
-			<!-- END MasterSlider Main -->
-
-			 
-		</div>
-		<!-- END MasterSlider -->
-
-		<script>
-		(function ( $ ) {
-			"use strict";
-
-			$(function () {
-				var masterslider_04f5 = new MasterSlider();
-
-				// slider controls
-				masterslider_04f5.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_04f5.control('bullets'    ,{ autohide:false, overVideo:true, dir:'h', align:'bottom' , margin:10  });
-
-				masterslider_04f5.control('scrollbar'  ,{ autohide:true, overVideo:true, dir:'h', inset:true, align:'top', color:'#404040' , margin:10  , width:4 });
-				masterslider_04f5.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
-				// slider setup
-				masterslider_04f5.setup("MS60d198ef604f5", {
-						width           : 800,
-						height          : 482,
-						minHeight       : 0,
-						space           : 2,
-						start           : 1,
-						grabCursor      : true,
-						swipe           : true,
-						mouse           : true,
-						layout          : "fullwidth",
-						wheel           : false,
-						autoplay        : false,
-						instantStartLayers:false,
-						loop            : false,
-						shuffle         : false,
-						preload         : 0,
-						heightLimit     : true,
-						autoHeight      : false,
-						smoothHeight    : true,
-						endPause        : false,
-						overPause       : true,
-						fillMode        : "fill",
-						centerControls  : false,
-						startOnAppear   : false,
-						layersMode      : "center",
-						hideLayers      : false,
-						fullscreenMargin: 0,
-						speed           : 7,
-						dir             : "h",
-						parallaxMode    : 'swipe',
-						view            : "basic"
-				});
-
-				
-				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_04f5 );
-			 });
-
-		})(jQuery);
-		</script>
-
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -106,18 +8,60 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; CHANEL</title>
+	<title>Uncategorized &#8211; Trường Nike</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
-	<description>Welcome to my CHANEL</description>
-	<lastBuildDate>Tue, 22 Jun 2021 04:18:55 +0000</lastBuildDate>
+	<description>Welcome to  My Shop</description>
+	<lastBuildDate>Thu, 01 Jul 2021 07:09:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://habazaki2001.github.io/truong/wp-content/uploads/2021/07/logo1.png</url>
+	<title>Uncategorized &#8211; Trường Nike</title>
+	<link>https://habazaki2001.github.io/truong</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>đồng hồ cao cấp nam</title>
+		<link>https://habazaki2001.github.io/truong/uncategorized/dong-ho-cao-cap-nam/</link>
+					<comments>https://habazaki2001.github.io/truong/uncategorized/dong-ho-cao-cap-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 06:58:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://habazaki2001.github.io/truong/?p=450</guid>
+
+					<description><![CDATA[Chanel là thương hiệu khá quen thuộc với các tín đồ đam mê hàng hiệu trên toàn thế giới. Những chiếc đồng hồ Chanel luôn có sức hút đặc biệt dễ dàng chạm đến trái tim người dùng theo một cách thức riêng nào đó. Bạn đã sở hữu cho mình mẫu đồng hồ hàng hiệu mang thương hiệu Chanel nào chưa nhỉ? Nếu chưa hãy cùng chúng tôi tìm hiểu top 10 mẫu Chanel đáng sở hữu nhất mọi thời đại qua bài viết dưới đây nhé!]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="450" class="elementor elementor-450" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-38a01d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38a01d8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6eb9fa4" data-id="6eb9fa4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a6964be elementor-widget elementor-widget-heading" data-id="a6964be" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Chanel là thương hiệu khá quen thuộc với các tín đồ đam mê hàng hiệu trên toàn thế giới. Những chiếc đồng hồ Chanel luôn có sức hút đặc biệt dễ dàng chạm đến trái tim người dùng theo một cách thức riêng nào đó. Bạn đã sở hữu cho mình mẫu đồng hồ hàng hiệu mang thương hiệu Chanel nào chưa nhỉ? Nếu chưa hãy cùng chúng tôi tìm hiểu top 10 mẫu Chanel đáng sở hữu nhất mọi thời đại qua bài viết dưới đây nhé!</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/uncategorized/dong-ho-cao-cap-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bộ sưu tập MADEMOISELLE PRIVÉ</title>
 		<link>https://habazaki2001.github.io/truong/uncategorized/bo-suu-tap-mademoiselle-prive/</link>
 					<comments>https://habazaki2001.github.io/truong/uncategorized/bo-suu-tap-mademoiselle-prive/#respond</comments>

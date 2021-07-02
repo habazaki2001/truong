@@ -1,101 +1,3 @@
-
-		<!-- MasterSlider -->
-		<div id="P_MS60d198b9668a7" class="master-slider-parent msl ms-parent-id-4" style="">
-
-			
-			<!-- MasterSlider Main -->
-			<div id="MS60d198b9668a7" class="master-slider ms-skin-light-6 round-skin" >
-				 				 
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/perfume-2134049_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/chanel-2250748_1280-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/jewelry-420016_1280.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-				<div  class="ms-slide" data-delay="3" data-fill-mode="fill"  >
-					<img src="https://habazaki2001.github.io/truong/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" data-src="https://habazaki2001.github.io/truong/wp-content/uploads/2021/06/bo-suu-tap-monsieur-1.jpg" />
-
-
-	<div class="ms-thumb" ><div class="ms-tab-context"><div class=&quot;ms-tab-context&quot;></div></div>
-</div>
-				</div>
-
-			</div>
-			<!-- END MasterSlider Main -->
-
-			 
-		</div>
-		<!-- END MasterSlider -->
-
-		<script>
-		(function ( $ ) {
-			"use strict";
-
-			$(function () {
-				var masterslider_68a7 = new MasterSlider();
-
-				// slider controls
-				masterslider_68a7.control('arrows'     ,{ autohide:false, overVideo:true  });				masterslider_68a7.control('bullets'    ,{ autohide:false, overVideo:true, dir:'h', align:'bottom' , margin:10  });
-
-				masterslider_68a7.control('scrollbar'  ,{ autohide:true, overVideo:true, dir:'h', inset:true, align:'top', color:'#404040' , margin:10  , width:4 });
-				masterslider_68a7.control('timebar'    ,{ autohide:false, overVideo:true, align:'bottom', color:'#FFFFFF'  , width:4 });
-				// slider setup
-				masterslider_68a7.setup("MS60d198b9668a7", {
-						width           : 800,
-						height          : 482,
-						minHeight       : 0,
-						space           : 2,
-						start           : 1,
-						grabCursor      : true,
-						swipe           : true,
-						mouse           : true,
-						layout          : "fullwidth",
-						wheel           : false,
-						autoplay        : false,
-						instantStartLayers:false,
-						loop            : false,
-						shuffle         : false,
-						preload         : 0,
-						heightLimit     : true,
-						autoHeight      : false,
-						smoothHeight    : true,
-						endPause        : false,
-						overPause       : true,
-						fillMode        : "fill",
-						centerControls  : false,
-						startOnAppear   : false,
-						layersMode      : "center",
-						hideLayers      : false,
-						fullscreenMargin: 0,
-						speed           : 7,
-						dir             : "h",
-						parallaxMode    : 'swipe',
-						view            : "basic"
-				});
-
-				
-				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_68a7 );
-			 });
-
-		})(jQuery);
-		</script>
-
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -108,7 +10,7 @@
 	Các phản hồi luận về: ĐỒNG HỒ CHANEL CODE COCO	</title>
 	<atom:link href="http://localhost/myproject/wordpress/dong-ho/dong-ho-chanel-code-coco/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong/dong-ho/dong-ho-chanel-code-coco/</link>
-	<description>Welcome to my CHANEL</description>
+	<description>Welcome to  My Shop</description>
 	<lastBuildDate>Tue, 22 Jun 2021 04:15:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
