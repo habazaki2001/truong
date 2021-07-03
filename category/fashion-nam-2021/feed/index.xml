@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/fashion-nam-2021/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to  My Shop</description>
-	<lastBuildDate>Sat, 03 Jul 2021 11:43:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 12:16:38 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,7 +41,34 @@
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="802" class="elementor elementor-802" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-62f385e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62f385e" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-ac65c30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac65c30" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0f0169c" data-id="0f0169c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d6892ce elementor-widget elementor-widget-heading" data-id="d6892ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large"><a href="https://habazaki2001.github.io/truong/fashion-nam-2021/quan-dui-nike/" target="_blank" rel="noopener">Top 6 điều vạn danh thương hiệu quần đùi nike</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6007bc3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6007bc3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-675aec0" data-id="675aec0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-81ce5f0 elementor-widget elementor-widget-spacer" data-id="81ce5f0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-62f385e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62f385e" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-62d8879" data-id="62d8879" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
