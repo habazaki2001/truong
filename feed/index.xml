@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://habazaki2001.github.io/truong</link>
 	<description>Welcome to  My Shop</description>
-	<lastBuildDate>Sat, 03 Jul 2021 10:26:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 11:43:13 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,9 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Tổng quan về thương hiệu quần đùi nike và đế chế 10 năm</title>
-		<link>https://habazaki2001.github.io/truong/quan-dui-nike/quan-dui-nike/</link>
-					<comments>https://habazaki2001.github.io/truong/quan-dui-nike/quan-dui-nike/#respond</comments>
+		<title>Top 6 điều vạn danh thương hiệu quần đùi nike</title>
+		<link>https://habazaki2001.github.io/truong/fashion-nam-2021/quan-dui-nike/</link>
+					<comments>https://habazaki2001.github.io/truong/fashion-nam-2021/quan-dui-nike/#respond</comments>
 		
 		<dc:creator><![CDATA[truong vo]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 05:58:56 +0000</pubDate>
@@ -332,7 +332,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://habazaki2001.github.io/truong/quan-dui-nike/quan-dui-nike/feed/</wfw:commentRss>
+					<wfw:commentRss>https://habazaki2001.github.io/truong/fashion-nam-2021/quan-dui-nike/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
