@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>S-NSW &#8211; Trường Nike</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/shirt/s-nsw/feed/" rel="self" type="application/rss+xml" />
+	<link>https://habazaki2001.github.io/truong</link>
+	<description>Welcome to  My Shop</description>
+	<lastBuildDate>Sat, 03 Jul 2021 04:11:16 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://habazaki2001.github.io/truong/wp-content/uploads/2021/07/logo1.png</url>
+	<title>S-NSW &#8211; Trường Nike</title>
+	<link>https://habazaki2001.github.io/truong</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nike M NSW Ss Tee Club Stripe T-Shirts &#038; Polo Shirts Men White &#8211; XL &#8211; Short-Sleeved T-Shirts Shirt</title>
+		<link>https://habazaki2001.github.io/truong/product/nike-m-nsw-ss-tee-club-stripe-t-shirts-polo-shirts-men-white-xl-short-sleeved-t-shirts-shirt/</link>
+					<comments>https://habazaki2001.github.io/truong/product/nike-m-nsw-ss-tee-club-stripe-t-shirts-polo-shirts-men-white-xl-short-sleeved-t-shirts-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[truong vo]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 04:11:16 +0000</pubDate>
+				<guid isPermaLink="false">https://habazaki2001.github.io/truong/?post_type=product&#038;p=766</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://habazaki2001.github.io/truong/product/nike-m-nsw-ss-tee-club-stripe-t-shirts-polo-shirts-men-white-xl-short-sleeved-t-shirts-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
